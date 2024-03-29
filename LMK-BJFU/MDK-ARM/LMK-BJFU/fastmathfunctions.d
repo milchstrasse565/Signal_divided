@@ -1,0 +1,16 @@
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Source\FastMathFunctions\FastMathFunctions.c
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Source\FastMathFunctions\arm_cos_f32.c
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/fast_math_functions.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\arm_math_types.h
+lmk-bjfu\fastmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+lmk-bjfu\fastmathfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\float.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\arm_math_memory.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/none.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/utils.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/basic_math_functions.h
+lmk-bjfu\fastmathfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\arm_common_tables.h

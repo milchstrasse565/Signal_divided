@@ -1,0 +1,15 @@
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Source\SVMFunctions\SVMFunctions.c
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Source\SVMFunctions\arm_svm_linear_init_f32.c
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/svm_functions.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\arm_math_types.h
+lmk-bjfu\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\stdint.h
+lmk-bjfu\svmfunctions.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\string.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\math.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\float.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\ARMCC\Bin\..\include\limits.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\arm_math_memory.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/none.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/utils.h
+lmk-bjfu\svmfunctions.o: E:\keil5\ARM\PACK\ARM\CMSIS-DSP\1.14.4\Include\dsp/svm_defines.h
